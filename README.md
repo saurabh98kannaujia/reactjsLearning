@@ -12,3 +12,7 @@
 
 # Stateless Functional Components 
     => 
+
+
+# SetState
+![alt text](image-1.png)
