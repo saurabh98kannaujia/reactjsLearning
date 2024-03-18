@@ -10,7 +10,7 @@ function App() {
     <div className="App">
      <Welcome name="props1" />
      <Greed name="propos2"/>
-     <Count />
+     <Count  count={10}/>
     </div>
   );
 }
